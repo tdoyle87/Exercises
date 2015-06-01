@@ -1,6 +1,7 @@
 #exercise3.rb
-puts "give me a number please"
+puts "What number do you want to evaluate?"
 number = gets.chomp.to_i
+
 
 case 
 when number < 0
@@ -12,3 +13,4 @@ when number < 100
 else  
   puts "The number is over 100"
 end
+
