@@ -1,0 +1,2 @@
+exercise5.rb
+ruby automatically evaluates
